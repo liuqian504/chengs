@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>url</key>
-	<string>xxx</string>
+	<string><a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liuqian504/chengs/patch-1/TouBaoPai.plist">App Install</a></string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
